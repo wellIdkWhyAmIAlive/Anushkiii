@@ -690,3 +690,11 @@ nav {
 .footer {
     padding-bottom: 2.5rem;
 }
+
+.misc_container span {
+    color: pink;
+}
+
+.birthday_container span {
+    color: #5885ff;
+}
