@@ -596,7 +596,7 @@ nav {
         grid-template-columns: 2fr 4fr;
     }
     .card_container h1 {
-        padding-top: 2rem;
+        padding-top: 1rem;
         text-align: left;
         font-size: 6rem;
     }
@@ -677,9 +677,6 @@ nav {
     .contact-container p {
         font-size: 1.4rem;
     }
-    .contact-inputs input {
-        /* max-height: 1rem; */
-    }
 }
 
 .footer p {
@@ -697,4 +694,8 @@ nav {
 
 .birthday_container span {
     color: #5885ff;
+}
+
+.birthday_container>h1 {
+    font-size: 4.5rem;
 }
